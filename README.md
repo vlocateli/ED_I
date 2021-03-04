@@ -1,4 +1,5 @@
-# ED_I
+# Lista de Exercícios I - Estrutura de Dados I
+
 
 **Linux** / **Unix**
 
