@@ -9,7 +9,7 @@
  * Compilador : g++ 8.3 
  * Sistema Operacional : Debian (buster)
  * Opc. de compilação(g++): g++ -Wall -Wextra -Werror 1.cpp -o prg
- * Para executar (UNIX) ./prg.out
+ * Para executar (UNIX) ./prg
  * Para executar (NT) ./prg.exe
 */
 
