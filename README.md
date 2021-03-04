@@ -12,6 +12,7 @@ To execute:
 To compile (using **MinGW** or WSL with g++ installed:
 ```powershell
 g++ -Wall -Wextra -Werror <file_name>.cpp -o prg
+```
 
 To execute:
  ```powershell
