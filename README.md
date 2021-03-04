@@ -1,8 +1,8 @@
 # ED_I
 
-**LINUX**
+**Linux / Unix **
 
-To compile:
+To compile(**requires g++**):
  ```bash
  g++ -Wall -Wextra -Werror <file_name>.cpp -o prg
  ```
