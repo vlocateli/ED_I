@@ -1,6 +1,6 @@
 # ED_I
 
-**Linux / Unix **
+**Linux** / **Unix**
 
 To compile(**requires g++**):
  ```bash
